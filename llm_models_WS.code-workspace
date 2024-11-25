@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		/*
+		uv venv "C:\\Users\\$Env:UserName\\venvs\\llm_models_venv"
+		uv python find
+		uv pip install pip
+		uv pip install -r requirements.txt
+		*/
+		"python.defaultInterpreterPath": "~\\venvs\\llm_models_venv\\Scripts\\python.exe",
+	}
+}
